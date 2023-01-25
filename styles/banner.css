@@ -1,0 +1,24 @@
+.banner {
+    height: 407px;
+    padding: 100px 325px;
+    text-align: center;
+}
+
+.span-text {
+    color: var(--red-text);
+    font-weight: 600;
+}
+
+.main-text {
+    color: var(--title-gray-text);
+    font-weight: 600;
+    font-size: 48px;
+    margin-bottom: 36px;
+    margin-top: 24px;
+}
+
+.regular-text {
+    font-size: 20px;
+    color: var(--regular-gray-text);
+    line-height: 30px;
+}
