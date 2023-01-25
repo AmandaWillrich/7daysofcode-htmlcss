@@ -17,7 +17,7 @@
 }
 
 .logo {
-    color: var(--logo-color);
+    color: var(--text-logo-color);
     font-size: 18px;
     padding-left: 8px;
     font-weight: 500;
