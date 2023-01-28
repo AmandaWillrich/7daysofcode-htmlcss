@@ -1,0 +1,28 @@
+.metrics {
+    display: flex;
+    justify-content: space-around;
+    padding: 112px
+}
+
+.metrics__section {
+    height: 60px;
+    width: 280px;
+}
+
+.metrics__section--item {
+    color: var(--red-text);
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.metrics__title {
+    font-weight: 500;
+    font-size: 18px;
+    padding-top: 12px;
+}
+
+.metrics_section--content {
+    line-height: 24px;
+    color: var(--regular-gray-text);
+    padding-top: 8px
+}

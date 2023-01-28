@@ -24,7 +24,7 @@
 }
 
 .menu__list {
-    padding-right: 230px;
+    padding-right: 350px;
 }
 
 .menu__list-link {
@@ -36,8 +36,9 @@
 
 .register {
     background-color: var(--red-text);
-    padding: 10px 18px;
+    padding: 11px 18px;
     border-radius: 8px;
     color: var(--white);
-    cursor: pointer;
+    border: none;
+    font-size: 16px;
 }

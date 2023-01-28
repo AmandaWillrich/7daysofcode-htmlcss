@@ -1,15 +1,15 @@
 .banner {
-    height: 407px;
+    height: 80px;
     padding: 100px 325px;
     text-align: center;
 }
 
-.span-text {
+.banner__span-text {
     color: var(--red-text);
     font-weight: 600;
 }
 
-.main-text {
+.banner__main-text {
     color: var(--title-gray-text);
     font-weight: 600;
     font-size: 48px;
@@ -17,7 +17,7 @@
     margin-top: 24px;
 }
 
-.regular-text {
+.banner__regular-text {
     font-size: 20px;
     color: var(--regular-gray-text);
     line-height: 30px;
