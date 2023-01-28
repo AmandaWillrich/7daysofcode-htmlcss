@@ -1,0 +1,29 @@
+.talents {
+    text-align: center;
+    padding: 30px 112px;
+}
+
+.talents__span {
+    padding: 4px 12px;
+    color: var(--red-text);
+    font-size: 14px;
+    font-weight: 500;
+    background-color: var(--red-text-transparency);
+    border-radius: 16px;
+}
+
+.talents__title {
+    font-size: 36px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+.talents__content {
+    font-size: 20px;
+    color: var(--regular-gray-text);
+    padding-top: 20px;
+}
+
+.talents__image {
+    margin-top: 64px;
+}

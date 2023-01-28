@@ -1,11 +1,13 @@
 @import url(styles/header.css);
 @import url(styles/banner.css);
 @import url(styles/metrics.css);
+@import url(styles/talents.css);
 
 :root {
     --regular-gray-text: #667085;
     --title-gray-text: #101828;
     --red-text: #8E2424;
+    --red-text-transparency: #8E24240D;
     --white: #FFFFFF;
     --text-logo-color: #3A404E;
 }

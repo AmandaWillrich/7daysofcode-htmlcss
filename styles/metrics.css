@@ -1,11 +1,12 @@
 .metrics {
     display: flex;
-    justify-content: space-around;
-    padding: 112px
+    justify-content: space-between;
+    padding: 100px 112px;
+    margin-bottom: 130px;
 }
 
 .metrics__section {
-    height: 60px;
+    height: 80px;
     width: 280px;
 }
 
