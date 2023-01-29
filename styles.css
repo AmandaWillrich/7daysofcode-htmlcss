@@ -3,6 +3,7 @@
 @import url(styles/metrics.css);
 @import url(styles/talents.css);
 @import url(styles/positions.css);
+@import url(styles/statements.css);
 
 :root {
     --regular-gray-text: #667085;

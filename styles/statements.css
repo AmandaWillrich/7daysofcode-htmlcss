@@ -1,0 +1,36 @@
+.statements {
+    padding: 64px 0;
+    text-align: center;
+    background-color: var(--red-text-transparency);
+    border-radius: 16px;
+    margin: 96px 112px;
+}
+
+.statements__span {
+    padding: 4px 12px;
+    color: var(--red-text);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.statements__title {
+    font-size: 36px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+.statements__employee {
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 16px;
+}
+
+.statements__content {
+    font-size: 14px;
+    color: var(--regular-gray-text);
+    padding-top: 4px;
+}
+
+.statements__image {
+    margin-top: 64px;
+}
