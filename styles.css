@@ -4,6 +4,7 @@
 @import url(styles/talents.css);
 @import url(styles/positions.css);
 @import url(styles/statements.css);
+@import url(styles/footer.css);
 
 :root {
     --regular-gray-text: #667085;
@@ -13,6 +14,8 @@
     --white: #FFFFFF;
     --text-logo-color: #3A404E;
     --light-gray: #EAECF0;
+    --footer-background: #F9FAFB;
+    --gray-color-form: #D0D5DD;
 }
 
 body {
